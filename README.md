@@ -6,7 +6,7 @@ kind: Human
 metadata:
   name: Ashish Kapoor
 spec:
-  purpose: grow while learning how to help others in software engineering
+  purpose: a tech enthusiast with a focus on developing and maintaining software
   sponsorship: https://buymeacoffee.com/a9k9
   locations:
     - 
