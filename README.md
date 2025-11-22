@@ -13,8 +13,8 @@ spec:
       type: YouTube
       where: https://www.youtube.com/@ashshkapoor
     - 
-      type: Blog
-      where: https://blog.sannty.in/
+      type: Website
+      where: https://sannty.in/
   favorites:
     number: 9
     color: #3c3c3c
